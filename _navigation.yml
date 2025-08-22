@@ -1,0 +1,7 @@
+navigation:
+  - title: Home
+    url: /
+  - title: Dashboard
+    url: /dashboard
+  - title: About
+    url: /about
