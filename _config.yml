@@ -5,3 +5,10 @@ theme: jekyll-theme-midnight
 remote_theme: pages-themes/midnight@v0.2.0
 title: Blue Bastion
 description: CTI Analysis
+navigation:
+  - title: Home
+    url: /
+  - title: Dashboard
+    url: /dashboard
+  - title: About
+    url: /about
